@@ -30,14 +30,3 @@ The dataset includes 7,000+ NBA player-season records (2010–2025) with:
 ## Tools
 - R (glmnet, psych, corrplot, quantreg, ca)
 - Statistical modeling techniques
-
-## Files
-- `nba_analysis.R` → full analysis code :contentReference[oaicite:0]{index=0}  
-- `nba_analysis_report.pdf` → full written report :contentReference[oaicite:1]{index=1}  
-- `presentation.pptx` → project presentation :contentReference[oaicite:2]{index=2}  
-- `nba_data.xlsx` → dataset
-
-## How to Run
-1. Open R / RStudio  
-2. Load dataset  
-3. Run `nba_analysis.R`  
